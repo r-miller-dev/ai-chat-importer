@@ -43,7 +43,7 @@ Your data is stored in your browser's local IndexedDB. Nothing is sent to any se
 | Product | Description | Price |
 |---------|-------------|-------|
 | Web App | Full-featured, runs in any browser | Free |
-| Desktop App | Native Windows app, offline, faster import | $9.99 one-time |
+| Desktop App | Native Windows app, offline, faster import | £29 one-time |
 
 → [Get started at ai-chat-importer.com](https://ai-chat-importer.com)
 
